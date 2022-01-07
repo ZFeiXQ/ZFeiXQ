@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm ZFeiXQ 👋
+
+- 🌱 I’m currently learning at Ocean University of China
+- 🤔 I'm interested in Security
 
 <!--
 **ZFeiXQ/ZFeiXQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/ZFeiXQ">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surager&layout=compact" />
+</a>
+<a href="https://github.com/ZFeiXQ">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZFeiXQ&show_icons=true&include_all_commits=true" />
+</a>
