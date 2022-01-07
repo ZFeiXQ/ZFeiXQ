@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <a href="https://github.com/ZFeiXQ">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surager&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZFeiXQ&layout=compact" />
 </a>
+-->
+
 <a href="https://github.com/ZFeiXQ">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZFeiXQ&show_icons=true&include_all_commits=true" />
 </a>
